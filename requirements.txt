@@ -1,0 +1,4 @@
+# Core: stdlib only (urllib) — no dependencies for monitor + MAX notifications.
+# Optional, for Google Sheets export:
+gspread>=5.0
+google-auth>=2.0
